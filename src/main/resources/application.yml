@@ -1,0 +1,5 @@
+cringe-bot:
+  botName: "keypopshCringeBot"
+  botToken: "5568385493:AAFQWL7fi1JVDwvVXcsYLscm7U_bD97ZYas"
+  webhookPath: "https://1a4e-46-138-33-56.eu.ngrok.io"
+  api-url: "https://api.telegram.org/"
